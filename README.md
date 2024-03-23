@@ -1,3 +1,6 @@
+
+
+
 MANUAL
 
 Para este trabajo planteamos dividir en tres secciones la trama argumental del suceso. En una primera instancia pensamos hacer el asesinato en una misma localización para las tres partes, pero finalmente lo descartamos y decidimos usar un sonido ambiente para cada uno. Esto con el fin de dar sensación de movimiento a la trama y no limitarla a un mismo espacio lineal. Para acompañar estos sonidos usamos líneas de diálogo del asesino, que junto a su respiración y latidos marcan el ritmo y la sucesión de los eventos. En cierto sentido, como un narrador.
